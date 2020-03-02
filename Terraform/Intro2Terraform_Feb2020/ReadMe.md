@@ -1,0 +1,3 @@
+# Introduction to Terraform
+
+This is a talk I gave at the PowerShell User Group in Southampton in February 2020. It is a follow up to the talk I gave there the previous November and is meant to be a basic introduction, although it does touch on some of the more advanced features in Terraform. It is _highly_ recommended that you follow up this talk with the official HAshicorp learning path for Terraform, available [here](https://learn.hashicorp.com/terraform).
